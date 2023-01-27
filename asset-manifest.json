@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ryo-chi.github.io/csb-ifbre5/static/css/main.3fc0e403.chunk.css",
+    "main.js": "https://ryo-chi.github.io/csb-ifbre5/static/js/main.31f1a159.chunk.js",
+    "main.js.map": "https://ryo-chi.github.io/csb-ifbre5/static/js/main.31f1a159.chunk.js.map",
+    "runtime-main.js": "https://ryo-chi.github.io/csb-ifbre5/static/js/runtime-main.cc405d69.js",
+    "runtime-main.js.map": "https://ryo-chi.github.io/csb-ifbre5/static/js/runtime-main.cc405d69.js.map",
+    "static/js/2.2e14c873.chunk.js": "https://ryo-chi.github.io/csb-ifbre5/static/js/2.2e14c873.chunk.js",
+    "static/js/2.2e14c873.chunk.js.map": "https://ryo-chi.github.io/csb-ifbre5/static/js/2.2e14c873.chunk.js.map",
+    "index.html": "https://ryo-chi.github.io/csb-ifbre5/index.html",
+    "static/css/main.3fc0e403.chunk.css.map": "https://ryo-chi.github.io/csb-ifbre5/static/css/main.3fc0e403.chunk.css.map",
+    "static/js/2.2e14c873.chunk.js.LICENSE.txt": "https://ryo-chi.github.io/csb-ifbre5/static/js/2.2e14c873.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc405d69.js",
+    "static/js/2.2e14c873.chunk.js",
+    "static/css/main.3fc0e403.chunk.css",
+    "static/js/main.31f1a159.chunk.js"
+  ]
+}
